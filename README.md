@@ -1,2 +1,2 @@
-# Introducci-n-a-la-ingenier-a-en-software-
+# Introduccion-a-la-ingenieria-en-software-
 Inventario "ojitos bonitos"
